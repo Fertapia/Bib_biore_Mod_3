@@ -1,4 +1,4 @@
-# Bioremediación medidada por hongos: La prometedora tecnología para descontaminar suelos afectados por metales pesados
+# Bioremediación mediada por hongos: La prometedora tecnología para descontaminar suelos afectados por metales pesados
 
 1. Akinbile, B.J., Makhubela, B.C.E., Ambushe, A.A. (2021). Phytomining of valuable metals: status and prospective-a review. International Journal of Environmental Analytical Chemistry 0(0): 1-21. DOI: 10.1080/03067319.2021.1917557.
 2. Albornoz, F.E., Dixon, K.W., Lambers, H. (2021). Revisiting mycorrhizal dogmas: Are mycorrhizas really functioning as they are widely believed to do? Soil Ecology Letters 3(1): 73-82. DOI: 10.1007/s42832-020-0070-2.
